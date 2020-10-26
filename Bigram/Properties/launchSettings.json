@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Bigram": {
+      "commandName": "Project",
+      "commandLineArgs": "sample.txt"
+    }
+  }
+}
